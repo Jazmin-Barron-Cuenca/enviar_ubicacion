@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Enviar_ubicacion" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/personal2</item>
+        <item name="android:statusBarColor">@color/personal1</item>
+        <!-- Cambiar el color de fábrica de los botones -->
+        <item name="android:colorButtonNormal">@color/personal1</item>
+    </style>
+
+</resources>

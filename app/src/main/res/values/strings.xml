@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMS_GPS_LLAMADA</string>
+    <string name="device_admin_description">Descripción del administrador del dispositivo</string>
+</resources>
